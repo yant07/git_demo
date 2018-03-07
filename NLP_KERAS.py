@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 28 16:00:31 2018
 
-@author: YANT07
+@author: YANT07 PAN
 """
 
 from keras.models import Sequential
